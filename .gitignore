@@ -29,3 +29,4 @@ tests/arch-test-target/sail_cSim/riscv_sim_RV32
 tests/scimark2/
 __pycache__/
 src/rv32_jit.c
+src/minimal_dtb.h

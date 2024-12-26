@@ -31,3 +31,6 @@
 	path = tests/quake
 	url = https://github.com/sysprog21/quake-embedded
 	shallow = true
+[submodule "tools/bin_to_c"]
+	path = tools/bin_to_c
+	url = https://github.com/bitbank2/bin_to_c.git

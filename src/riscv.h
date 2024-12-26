@@ -532,7 +532,6 @@ typedef struct {
 typedef struct {
     char *kernel;
     char *initrd;
-    char *dtb;
 } vm_system_t;
 #endif /* RV32_HAS(SYSTEM) */
 
